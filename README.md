@@ -23,7 +23,7 @@ Project created by <a href="https://github.com/Chunkindepadayali">LIZA MWOL</a> 
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.?template=
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.?template=https://github.com/athulf/LIZA-MWOL
  Chunkindepadayali/LIZA-MWOL
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@chunkindepadayali/LizaMwol?v=1)
